@@ -1,0 +1,104 @@
+-- Copyright (C) 2016  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel MegaCore Function License Agreement, or other 
+-- applicable license agreement, including, without limitation, 
+-- that your use is for the sole purpose of programming logic 
+-- devices manufactured by Intel and sold by Intel or its 
+-- authorized distributors.  Please refer to the applicable 
+-- agreement for further details.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=16;
+DEPTH=512;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	000  :   E087;
+	001  :   9292;
+	002  :   CA92;
+	003  :   D293;
+	004  :   AC82;
+	005  :   2010;
+	006  :   8290;
+	007  :   E105;
+	008  :   9324;
+	009  :   D324;
+	00A  :   AD04;
+	00B  :   80E0;
+	00C  :   3200;
+	00D  :   CAD9;
+	00E  :   4CFE;
+	00F  :   2010;
+	010  :   80E0;
+	011  :   3200;
+	012  :   CAD9;
+	013  :   4CFE;
+	014  :   8290;
+	015  :   2010;
+	016  :   8290;
+	017  :   D2E5;
+	[018..01A]  :   ACC3;
+	01B  :   3200;
+	01C  :   CAD9;
+	01D  :   4CFE;
+	01E  :   2010;
+	01F  :   8290;
+	020  :   2010;
+	021  :   8290;
+	022  :   2010;
+	023  :   8290;
+	024  :   2010;
+	025  :   3000;
+	[026..119]  :   0000;
+	11A  :   0030;
+	11B  :   2710;
+	11C  :   013E;
+	11D  :   03E8;
+	11E  :   013F;
+	11F  :   0064;
+	120  :   0140;
+	121  :   000A;
+	122  :   0141;
+	123  :   0001;
+	124  :   0142;
+	125  :   2710;
+	126  :   014F;
+	127  :   03E8;
+	128  :   0150;
+	129  :   0064;
+	12A  :   0151;
+	12B  :   000A;
+	12C  :   0152;
+	12D  :   0001;
+	12E  :   0153;
+	12F  :   0434;
+	130  :   040C;
+	131  :   0401;
+	132  :   0406;
+	133  :   0649;
+	134  :   066E;
+	135  :   0663;
+	136  :   066F;
+	137  :   066D;
+	138  :   0665;
+	139  :   063A;
+	[13A..13D]  :   0620;
+	[13E..142]  :   0000;
+	143  :   04C0;
+	144  :   0654;
+	145  :   0661;
+	146  :   0678;
+	[147..149]  :   0620;
+	14A  :   063A;
+	[14B..14E]  :   0620;
+	[14F..1FF]  :   0000;
+END;

@@ -1,0 +1,120 @@
+-- Copyright (C) 2016  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel MegaCore Function License Agreement, or other 
+-- applicable license agreement, including, without limitation, 
+-- that your use is for the sole purpose of programming logic 
+-- devices manufactured by Intel and sold by Intel or its 
+-- authorized distributors.  Please refer to the applicable 
+-- agreement for further details.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=28;
+DEPTH=256;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	000  :   C024001;
+	[001..00F]  :   0000000;
+	010  :   C02400C;
+	[011..017]  :   0000000;
+	018  :   1820002;
+	019  :   C024002;
+	[01A..01F]  :   0000000;
+	020  :   C0CA002;
+	021  :   C04A002;
+	022  :   C0EA002;
+	023  :   C08A002;
+	024  :   0000000;
+	025  :   C0AA002;
+	026  :   0000000;
+	027  :   C06A002;
+	028  :   C0CA002;
+	029  :   C04A002;
+	02A  :   C0EA002;
+	02B  :   C08A002;
+	02C  :   0000000;
+	02D  :   C0AA002;
+	02E  :   0000000;
+	02F  :   C06A002;
+	030  :   C02A002;
+	[031..037]  :   0000000;
+	038  :   C0CA006;
+	039  :   C04A006;
+	03A  :   C0EA006;
+	03B  :   C09A006;
+	03C  :   0000000;
+	03D  :   C0BA006;
+	03E  :   0000000;
+	03F  :   C07A006;
+	040  :   C024006;
+	041  :   C024016;
+	042  :   C024026;
+	043  :   C024036;
+	044  :   C024046;
+	045  :   C024056;
+	046  :   C024066;
+	047  :   C024C06;
+	048  :   C024086;
+	049  :   C024096;
+	04A  :   C0240A6;
+	04B  :   C0240B6;
+	04C  :   C0240C6;
+	04D  :   C0240D6;
+	04E  :   C0240E6;
+	04F  :   C026506;
+	050  :   C024106;
+	051  :   0000000;
+	052  :   C024126;
+	053  :   0000000;
+	054  :   C024146;
+	055  :   0000000;
+	056  :   C024166;
+	057  :   0000000;
+	058  :   C024186;
+	059  :   0000000;
+	05A  :   C0241A6;
+	[05B..061]  :   0000000;
+	062  :   C024226;
+	063  :   C024236;
+	064  :   C024246;
+	065  :   C024256;
+	[066..067]  :   0000000;
+	068  :   C024286;
+	069  :   C024296;
+	06A  :   C0242A6;
+	06B  :   C0242B6;
+	06C  :   C0242C6;
+	06D  :   C0242D6;
+	[06E..06F]  :   0000000;
+	070  :   C024506;
+	071  :   0000000;
+	072  :   C024326;
+	073  :   0000000;
+	074  :   C024346;
+	075  :   0000000;
+	076  :   C024366;
+	077  :   0000000;
+	078  :   C024386;
+	079  :   0000000;
+	07A  :   C0243A6;
+	[07B..0BC]  :   0000000;
+	0BD  :   0008000;
+	0BE  :   0038002;
+	0BF  :   C420002;
+	0C0  :   C228002;
+	0C1  :   C320002;
+	0C2  :   0030002;
+	0C3  :   C420000;
+	0C4  :   C128002;
+	0C5  :   C228002;
+	[0C6..0FF]  :   0000000;
+END;
